@@ -5,5 +5,5 @@
 -->
 
 - 🔭 I’m currently working on Django and MQTT integrations.
-- 🌱 I’m currently learning C++11/14 and UNIX system programming.
+- 🌱 I’m currently learning UNIX system programming.
 <!-- - 👯 I’m looking to collaborate on ... -->
