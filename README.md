@@ -5,5 +5,5 @@
 -->
 
 - 🔭 I’m currently working with Go and Python.
-- 🌱 Learning and growing on UNIX system programming.
+- 🌱 Learning and growing on GTK desktop development and Data-Driven Systems Engineering.
 <!-- - 👯 I’m looking to collaborate on ... -->
