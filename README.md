@@ -5,5 +5,5 @@
 -->
 
 - 🔭 I’m currently working with Go and Python.
-- 🌱 Learning and growing on GTK desktop development and Data-Driven Systems Engineering.
+- 🌱 My current studies are on the Java ecosystem for server-side applications and distributed systems.
 <!-- - 👯 I’m looking to collaborate on ... -->
